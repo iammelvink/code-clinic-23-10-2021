@@ -2,7 +2,7 @@
 
 ## Repository for my code-clinic-23-10-2021 project
 
-Authors Hanna Sebolai and [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten') explore the Python basics and pandas library, for Code Clinic at Sol Plaatje University, on 23-10-2021.
+Authors Hanna Sebolai and [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten') explore the basics of Python and the pandas library, for Code Clinic at Sol Plaatje University, on 23-10-2021.
 
 1. Methodologies/Project Management:
    - SCRUM
